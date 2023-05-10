@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdan Khan</h1>
+
 - 🌱 I’m currently learning **Next.js, TypeScript and C++**
 
 - 👨‍💻 Get to know more about me [hamdan-k.me](hamdan-k.me)
