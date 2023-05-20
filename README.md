@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript and C++**
 
-- 👨‍💻 Get to know more about me [https://hamdan-k.me](hamdan-k.me)
+- 👨‍💻 Get to know more about me [hamdan-k.me](https://hamdan-k.me)
 
 - 💬 Ask me about **JavaScript & React**
 
