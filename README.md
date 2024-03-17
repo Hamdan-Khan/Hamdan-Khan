@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamdan Khan</h1>
 
-🌱 I’m currently learning Next.js and C++<br><br>👨‍💻 Get to know more about me https://hamdan-k.me<br><br>💬 Ask me about JavaScript & React<br><br>📫 Reach me at: hamdankhan212@gmail.com
+🌱 I’m currently learning Next.js and C++<br><br>👨‍💻 Get to know more about me https://hamdan-khan.github.io/<br><br>💬 Ask me about JavaScript & React<br><br>📫 Reach me at: hamdankhan212@gmail.com
 
 
 # 🌐 Socials:
